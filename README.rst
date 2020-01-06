@@ -41,20 +41,66 @@ Some tips to get the most out of the workshop:
 Intended Audience
 -----
 
-...
+This workshop is for people who have some basic knowledge of Python and would like to learn more about, or start a career in, data analytics.
 
+The workshop material includes two notebooks of preliminaries, i.e. one on how to use Jupyter notebooks and one on the basic syntax of Python.
 
-Installing the Material
+Installation and Setup
 -----
 
-We are using Python 3.7, and we will require Jupyter, pandas, and matplotlib
-installed. The recommended way to do this is to get the Python 3.7 version of
-Anaconda - this will come with everything installed.
+In order to setup the environment and run the workshop material, you'll need to:
+
+- Install Python and relevant libraries on your machine
+- Download the workshop material on your machine
 
 Please try to have everything installed before you come to the workshop.
 
+*Install Python and relevant libraries*
+
+We are using Python 3.7, and we will require Jupyter, pandas, and matplotlib
+installed. The recommended way to do this is to get the Python 3.7 version of
+Anaconda, a Python distribution for data science - this will come with everything installed.
+
+You can download Anaconda Python 3.7 from https://www.anaconda.com/distribution/ (available for Windows, macOS and Linux).
+
+*Download the workshop material*
+
+If you are familiar with `git`, you can clone the workshop repository using the following command:
+
+    git clone https://github.com/PyDataLondon/data-analytics-workshop.git
+
+Alternatively, you can download a zip file with the content of this repository:
+
+- Click on "Clone or download"
+- Click on "Download ZIP"
+- Unzip the file in a folder of your choice
+
+.. image:: images/download.png
+
+Running the material
+-----
+
+The workshop material is distributed as Jupyter notebooks.
+
+In order to run the material, from a terminal firstly navigate to the folder where you have unzipped the files:
+
+    cd data-analytics-workshop
+
+then spin up the Jupyter notebook server:
+
+    jupyter notebook
+
+At this point the content of this repository should be visible through your browser.
+
+Click on the `notebooks` folder, then click on any of the notebooks to run them.
+
+If you are new to Jupyter, the suggestion is to check the preliminary material first,
+in particular the notebook titled `Using Jupyter notebooks`.
+
+
+Credits
+-----
+
 ...
-
-
 
 
