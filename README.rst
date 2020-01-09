@@ -123,10 +123,10 @@ The text content of this material, including all narrative in the notebooks list
 [CC-BY-SA license](LICENSE-TEXT). Read more at [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0).
 
 
-
 Credits
 -----
 
-...
+The first version of this workshop was born as a joint effort between the [PyData London](https://www.meetup.com/PyData-London-Meetup/)
+and [PyLadies London](https://www.meetup.com/pyladieslondon/) user groups, with volunteer contributions from the organisers.
 
 
