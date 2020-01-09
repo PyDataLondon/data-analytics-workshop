@@ -115,18 +115,25 @@ License
 **Code**
 
 The code in this repository, including all code samples in the notebooks listed above, is released under the
-[MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
+`MIT license`_. Read more at the `Open Source Initiative`_.
+
+.. _MIT license: LICENSE-CODE
+.. _Open Source Initiative: https://opensource.org/licenses/MIT
 
 **Text**
 
 The text content of this material, including all narrative in the notebooks listed above, is released under the
-[CC-BY-SA license](LICENSE-TEXT). Read more at [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0).
+`CC-BY-SA license`_. Read more at `Creative Commons`_. 
 
+.. _CC-BY-SA license: LICENSE-TEXT
+.. _Creative Commons: https://creativecommons.org/licenses/by-sa/4.0
 
 Credits
 -----
 
-The first version of this workshop was born as a joint effort between the [PyData London](https://www.meetup.com/PyData-London-Meetup/)
-and [PyLadies London](https://www.meetup.com/pyladieslondon/) user groups, with volunteer contributions from the organisers.
+The first version of this workshop was born as a joint effort between the `PyData London`_
+and `PyLadies London`_ user groups, with volunteer contributions from the organisers.
 
+.. _PyData London: https://www.meetup.com/PyData-London-Meetup/
+.. _PyLadies London: https://www.meetup.com/pyladieslondon/
 
