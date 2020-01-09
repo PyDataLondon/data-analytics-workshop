@@ -17,7 +17,7 @@ The purpose of this workshop is to introduce the audience to some of the Python 
 
 Outline:
 
-- pandas basics
+- pandas basics (estimated 60-75 minutes)
 
   - Loading data from CSV files
 
@@ -31,7 +31,7 @@ Outline:
 
   - Exercises
 
-- pandas operations
+- pandas operations (estimated 60-75 minutes)
 
   - Data aggregation (``groupby()``)
 
@@ -41,7 +41,7 @@ Outline:
 
   - Exercises
 
-- Capstone Project
+- Capstone Project (estimated 75-90 minutes)
 
 Some tips to get the most out of the workshop:
 
