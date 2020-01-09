@@ -83,7 +83,7 @@ If you are familiar with `git`, you can clone the workshop repository using the 
 
 Alternatively, you can download a zip file with the content of this repository:
 
-- Click on "Clone or download"
+- Click on "Clone or download" (on the top-right of this page, see example in image below)
 - Click on "Download ZIP"
 - Unzip the file in a folder of your choice
 
