@@ -25,7 +25,7 @@ Outline:
 
   - Data selection and filtering (e.g. boolean indexing, column selection)
 
-  - Data transformation (e.g. `apply()`, `map()`)
+  - Data transformation (e.g. ``apply()``, ``map()``)
 
   - Sorting values
 
@@ -33,11 +33,11 @@ Outline:
 
 - pandas operations
 
-  - Data aggregation (`groupby()`)
+  - Data aggregation (``groupby()``)
 
-  - Joining `DataFrame` objects (`merge()`)
+  - Joining ``DataFrame`` objects (``merge()``)
 
-  - Basics of data visualisation with pandas (`plot()`)
+  - Basics of data visualisation with pandas (``plot()``)
 
   - Exercises
 
@@ -45,9 +45,10 @@ Outline:
 
 Some tips to get the most out of the workshop:
 
+- if you are new to Jupyter notebook, please have a look at the preliminary material first, in particular the notebook ``Using Jupyter notebooks``
 - make sure you run all the cells that contain code - cells further down may need the results from an earlier cell!
 - if you are confused about what a cell is doing, make sure you read the text above and below it
-- we use `this format` inside of a block of text to show that this is code that you may end up running yourself later
+- we use ``this format`` inside of a block of text to show that this is code that you may end up running yourself later
 - if you get stuck, do ask people seated around you and ask our coaches for help! There are no stupid questions, and your neighbors are your friends who may also learn from helping you! Along the way, you may also want to figure out what key terms to search for, where to search for it, and how to debug the problem - this will let you develop good intuition for how to search for a solution yourself next time.
 
 Intended Audience
@@ -67,7 +68,7 @@ In order to setup the environment and run the workshop material, you'll need to:
 
 Please try to have everything installed before you come to the workshop.
 
-*Install Python and relevant libraries*
+**Install Python and relevant libraries**
 
 We are using Python 3.7, and we will require Jupyter, pandas, and matplotlib
 installed. The recommended way to do this is to get the Python 3.7 version of
@@ -75,9 +76,11 @@ Anaconda, a Python distribution for data science - this will come with everythin
 
 You can download Anaconda Python 3.7 from https://www.anaconda.com/distribution/ (available for Windows, macOS and Linux).
 
-*Download the workshop material*
+**Download the workshop material**
 
-If you are familiar with `git`, you can clone the workshop repository using the following command:
+If you are familiar with ``git``, you can clone the workshop repository using the following command:
+
+::
 
     git clone https://github.com/PyDataLondon/data-analytics-workshop.git
 
@@ -96,18 +99,22 @@ The workshop material is distributed as Jupyter notebooks.
 
 In order to run the material, from a terminal firstly navigate to the folder where you have unzipped the files:
 
+::
+
     cd data-analytics-workshop
 
 then spin up the Jupyter notebook server:
+
+::
 
     jupyter notebook
 
 At this point the content of this repository should be visible through your browser.
 
-Click on the `notebooks` folder, then click on any of the notebooks to run them.
+Click on the ``notebooks`` folder, then click on any of the notebooks to run them.
 
 If you are new to Jupyter, the suggestion is to check the preliminary material first,
-in particular the notebook titled `Using Jupyter notebooks`.
+in particular the notebook titled ``Using Jupyter notebooks``.
 
 License
 -----
