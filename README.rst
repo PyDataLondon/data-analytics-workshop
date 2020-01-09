@@ -109,6 +109,20 @@ Click on the `notebooks` folder, then click on any of the notebooks to run them.
 If you are new to Jupyter, the suggestion is to check the preliminary material first,
 in particular the notebook titled `Using Jupyter notebooks`.
 
+License
+-----
+
+**Code**
+
+The code in this repository, including all code samples in the notebooks listed above, is released under the
+[MIT license](LICENSE-CODE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
+
+**Text**
+
+The text content of this material, including all narrative in the notebooks listed above, is released under the
+[CC-BY-SA license](LICENSE-TEXT). Read more at [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0).
+
+
 
 Credits
 -----
